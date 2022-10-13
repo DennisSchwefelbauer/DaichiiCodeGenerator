@@ -18,7 +18,7 @@ You can generate the Radiocode for Fiat Daichii Radios with this Tool.
 
 Simply put the last 4 Numbers of the Serialnumber into the 4 Fields and press "Generieren".
 
-Tested with the follow Vehicles:
+Tested with the following Vehicles:
 * Fiat Qubo
 * Fiat Grande Punto
 * Fiat Ducato
