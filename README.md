@@ -16,7 +16,7 @@ Für ein Beispielbild der Seriennummer, einfach auf das Hilfebild drücken.
 
 With this tool you can generate the radio code for Fiat Daichii radios.
 
-Simply enter the last 4 digits of the serial number in the 4 fields and press "Generiern".
+Simply enter the last 4 digits of the serial number in the 4 fields and press "Generieren".
 
 Tested with the following Vehicles:
 * Fiat Qubo
